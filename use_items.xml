@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+  <item id="3352" stack="1" sleep="false" name="Ooze-covered Bag" action="use" />
+  <item id="6351" stack="1" sleep="false" name="Dented Crate" action="use" />
+  <item id="6352" stack="1" sleep="false" name="Waterlogged Crate" action="use" />
+  <item id="6353" stack="1" sleep="false" name="Small Chest" action="use" />
+  <item id="6356" stack="1" sleep="false" name="Battered Chest" action="use" />
+  <item id="6357" stack="1" sleep="false" name="Sealed Crate" action="use" />
+  <item id="5523" stack="1" sleep="false" name="Small Barnacled Clam" action="use" />
+  <item id="5524" stack="1" sleep="false" name="Thick-shelled Clam" action="use" />
+  <item id="7973" stack="1" sleep="false" name="Big-mouth Clam" action="use" />
+  <item id="13874" stack="1" sleep="false" name="Heavy Crate" action="use" />
+  <item id="20708" stack="1" sleep="false" name="Tightly Sealed Trunk" action="use" />
+  <item id="20766" stack="1" sleep="false" name="Slimy Bag" action="use" />
+  <item id="20767" stack="1" sleep="false" name="Scum Covered Bag" action="use" />
+  <item id="20768" stack="1" sleep="false" name="Oozing Bag" action="use" />
+  <item id="21113" stack="1" sleep="false" name="Watertight Trunk" action="use" />
+  <item id="21150" stack="1" sleep="false" name="Iron Bound Trunk" action="use" />
+  <item id="21228" stack="1" sleep="false" name="Mithril Bound Trunk" action="use" />
+  <item id="21746" stack="1" sleep="false" name="Lucky Red Envelope (Lunar Festival Item)" action="use" />
+  <item id="24476" stack="1" sleep="false" name="Jaggal Clam" action="use" />
+  <item id="24881" stack="1" sleep="false" name="Satchel of Helpful Goods (5-15 1st)" action="use" />
+  <item id="24882" stack="1" sleep="false" name="Satchel of Helpful Goods (15-25 1st)" action="use" />
+  <item id="24889" stack="1" sleep="false" name="Satchel of Helpful Goods (5-15 others)" action="use" />
+  <item id="24890" stack="1" sleep="false" name="Satchel of Helpful Goods (15-25 others)" action="use" />
+  <item id="27481" stack="1" sleep="false" name="Heavy Supply Crate" action="use" />
+  <item id="27511" stack="1" sleep="false" name="Inscribed Scrollcase" action="use" />
+  <item id="27513" stack="1" sleep="false" name="Curious Crate" action="use" />
+  <item id="32724" stack="1" sleep="false" name="Sludge Covered Object" action="use" />
+  <item id="35945" stack="1" sleep="false" name="Brilliant Glass (Daily Cooldown for Jewelcrafting - The Burning Crusade Edition)" action="use" />
+  <item id="36781" stack="1" sleep="false" name="Darkwater Clam" action="use" />
+  <item id="44475" stack="1" sleep="false" name="Reinforced Crate" action="use" />
+  <item id="44663" stack="1" sleep="false" name="Abandoned Adventurer's Satchel" action="use" />
+  <item id="44700" stack="1" sleep="false" name="Brooding Darkwater Clam" action="use" />
+  <item id="45909" stack="1" sleep="false" name="Giant Darkwater Clam" action="use" />
+  <item id="49655" stack="1" sleep="false" name="Lovely Charm (Love is in the Air item)" action="use" />
+  <item id="51999" stack="1" sleep="false" name="Satchel of Helpful Goods (iLevel 25)" action="use" />
+  <item id="52000" stack="1" sleep="false" name="Satchel of Helpful Goods (31)" action="use" />
+  <item id="52001" stack="1" sleep="false" name="Satchel of Helpful Goods (41)" action="use" />
+  <item id="52002" stack="1" sleep="false" name="Satchel of Helpful Goods (50)" action="use" />
+  <item id="52003" stack="1" sleep="false" name="Satchel of Helpful Goods (57)" action="use" />
+  <item id="52004" stack="1" sleep="false" name="Satchel of Helpful Goods (62)" action="use" />
+  <item id="52005" stack="1" sleep="false" name="Satchel of Helpful Goods (66)" action="use" />
+  <item id="52340" stack="1" sleep="false" name="Abyssal Clam" action="use" />
+  <item id="61387" stack="1" sleep="true" name="Hidden Stash" action="use" />
+  <item id="62242" stack="1" sleep="false" name="Icy Prism (Daily Cooldown for Jewelcrafting - Wrath Edition)" action="use" />
+  <item id="64657" stack="1" sleep="false" name="Canopic Jar (Archaeology Tol'vir relic)" action="use" />
+  <item id="67248" stack="1" sleep="false" name="Satchel of Helpful Goods (39)" action="use" />
+  <item id="67250" stack="1" sleep="false" name="Satchel of Helpful Goods (85)" action="use" />
+  <item id="67495" stack="1" sleep="true" name="Strange Bloated Stomach" action="use" />
+  <item id="67539" stack="1" sleep="true" name="Tiny Treasure Chest" action="use" />
+  <item id="67597" stack="1" sleep="false" name="Sealed Crate (level 85 version)" action="use" />
+  <item id="69903" stack="1" sleep="false" name="Satchel of Exotic Mysteries (LFD - Extra Reward)" action="use" />
+  <item id="73478" stack="1" sleep="false" name="Fire Prism (Daily Cooldown for Jewelcrafting - Cataclysm Edition)" action="use" />
+  <item id="78890" stack="1" sleep="false" name="Crystalline Geode (Dragon Soul Raid - Normal 10/25 every bossloot)" action="use" />
+  <item id="78891" stack="1" sleep="false" name="Elementium-Coated Geode (Dragon Soul Raid - Normal 10/25 Deathwing Kill)" action="use" />
+  <item id="78892" stack="1" sleep="false" name="Perfect Geode (Dragon Soul Raid - Heroic Hardmode 10/25 Deathwing Kill)" action="use" />
+  <item id="78897" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78898" stack="1" sleep="false" name="Sack o' Tokens (20 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78899" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78900" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78901" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78902" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78903" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78904" stack="1" sleep="false" name="Pouch o' Tokens (5 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78905" stack="1" sleep="false" name="Sack o' Tokens (20 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78906" stack="1" sleep="false" name="Sack o' Tokens (20 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78907" stack="1" sleep="false" name="Sack o' Tokens (20 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78908" stack="1" sleep="false" name="Sack o' Tokens (20 Darkmoon Faire Game Coins)" action="use" />
+  <item id="78909" stack="1" sleep="false" name="Sack o' Tokens (20 Darkmoon Faire Game Coins" action="use" />
+  <item id="78930" stack="1" sleep="false" name="Sealed Crate (around the Darkmoon Faire Island)" action="use" />
+  <item id="89810" stack="1" sleep="false" name="Bounty of a Sundered Land (LFR Contains 25G if you don't win gear)" action="use" />
+  <item id="33567" stack="5" sleep="false" name="Borean Leather Scraps" action="use" />
+  <item id="22572" stack="10" sleep="false" name="Mote of Air" action="use" />
+  <item id="22573" stack="10" sleep="false" name="Mote of Earth" action="use" />
+  <item id="22574" stack="10" sleep="false" name="Mote of Fire" action="use" />
+  <item id="22575" stack="10" sleep="false" name="Mote of Life" action="use" />
+  <item id="22576" stack="10" sleep="false" name="Mote of Mana" action="use" />
+  <item id="22577" stack="10" sleep="false" name="Mote of Shadow" action="use" />
+  <item id="22578" stack="10" sleep="false" name="Mote of Water" action="use" />
+  <item id="37700" stack="10" sleep="false" name="Crystallized Air" action="use" />
+  <item id="37701" stack="10" sleep="false" name="Crystallized Earth" action="use" />
+  <item id="37702" stack="10" sleep="false" name="Crystallized Fire" action="use" />
+  <item id="37703" stack="10" sleep="false" name="Crystallized Shadow" action="use" />
+  <item id="37704" stack="10" sleep="false" name="Crystallized Life" action="use" />
+  <item id="37705" stack="10" sleep="false" name="Crystallized Water" action="use" />
+  <item id="88496" stack="1" sleep="true" name="Sealed Crate" action="use" />
+</items>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <!-- trash-items from pandaria sealed crate -->
+  <item id="73260" stack="1" sleep="false" name="Salty Sea Dog" action="drop" />
+  <item id="19221" stack="1" sleep="false" name="Darkmoon Special Reserve" action="drop" />
+  <item id="78883" stack="1" sleep="false" name="Darkmoon Firewater" action="drop" />
+  <item id="19304" stack="1" sleep="false" name="Spiced Beef Jerky" action="drop" />
+  <item id="21151" stack="1" sleep="false" name="Rumsey Black Rum" action="drop" />
+  <item id="19306" stack="1" sleep="false" name="Crunchy Frog" action="drop" />
+  <item id="74822" stack="1" sleep="false" name="Sasparilla Sinker" action="drop" />
+  <item id="19300" stack="1" sleep="false" name="Bottled Winterspring Water" action="drop" />
+  <item id="19223" stack="1" sleep="false" name="Darkmoon Dog" action="drop" />
+  <item id="19299" stack="1" sleep="false" name="Fizzy Faire Drink" action="drop" />
+  <item id="44940" stack="1" sleep="false" name="Corn-Breaded Sausage" action="drop" />
+  <item id="19225" stack="1" sleep="false" name="Deep Fried Candybar" action="drop" />
+  <item id="79101" stack="1" sleep="false" name="Prismatic Scale" action="keep" />
+  <item id="74866" stack="1" sleep="false" name="Golden Carp" action="keep" />
+</items>
